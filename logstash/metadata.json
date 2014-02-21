@@ -1,0 +1,29 @@
+{
+  "author": "",
+  "checksums": {
+    "manifests\\service.pp": "36f32169fb6b5e63020d5d811cb6ad4c",
+    "manifests\\init.pp": "f7cc93dfc93e225cd6cc667155979e8c",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "Modulefile": "ab3e88bee08696d1026b38f52acc8c20",
+    "manifests\\config.pp": "d3c2621335ba7c68506e947de18d8092",
+    "README.markdown": "f2706e8a9fe3b3ad5da3e4e4340a7485",
+    "templates\\logstash.erb": "6d367a483c2f528de8ab547b32848e09",
+    "manifests\\dependencies.pp": "817d1e75c808ee84e45949bb8a557132",
+    "files\\logstash.jar": "f2ec9e54e13428ed6d5c96b218126a0e",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "5ec2f6252f5352cd6b9f58fde010631b",
+    "templates\\logstash.conf.erb": "c988c048df062bcf510424720d1a531d",
+    "manifests\\params.pp": "246286b73f6737c0b6644c831a9cdf3d",
+    "manifests\\install.pp": "fb4a149ff1ac8d391b5d3702eefff7e2"
+  },
+  "dependencies": [],
+  "description": "",
+  "license": "",
+  "name": "tvasile-logstash",
+  "project_page": "",
+  "source": "",
+  "summary": "deploy logstash agent",
+  "types": [],
+  "version": "0.1.0"
+}

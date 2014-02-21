@@ -1,0 +1,15 @@
+input {
+  file {
+    type => "syslog"
+    path => ["/var/log/messages"]
+    sincedb_path => "/opt/logstash/sincedb-access" 
+  }
+}
+
+output {
+  redis {
+    host => "172.19.0.99"
+    data_type => "list"
+    key => "logstash"
+  }
+}
