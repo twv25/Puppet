@@ -3,6 +3,5 @@ Puppet
 
 modules
 
-Logstash Shipping deployment module.
-
-#Work in progress
+-Logstash Shipping deployment module.
+   #Work in progress
