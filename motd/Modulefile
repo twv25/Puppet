@@ -1,0 +1,9 @@
+name 'tvasile-motd'
+version '1.0.1'
+
+author 'tvasile'
+license ''
+project_page ''
+source ''
+summary 'Module for custom motd using template'
+description 'manages /etc/motd'

@@ -1,0 +1,20 @@
+{
+  "name": "tvasile-motd",
+  "author": "tvasile",
+  "description": "manages /etc/motd",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "Module for custom motd using template",
+  "version": "1.0.1",
+  "checksums": {
+    "Modulefile": "b93e963a748c44cffc91d898330644e7",
+    "README.md": "6edf60b5a98e6e041b704e4256b9a6f0",
+    "manifests\\init.pp": "bd9730c6b807ea6634611c26ec4a32e8",
+    "spec\\spec.opts": "eb547b31184006017b3f6d6e2f1bbc12",
+    "spec\\spec_helper.rb": "66642839037952e89882be783f1b3858",
+    "templates\\motd.erb": "e9d3dbc1cd8a38f8c6dcc82c1ff277ad",
+    "tests\\init.pp": "ac9b04cecd454f935eb8e4c8b628137e"
+  },
+  "dependencies": []
+}
