@@ -4,6 +4,7 @@
     "manifests\\service.pp": "36f32169fb6b5e63020d5d811cb6ad4c",
     "manifests\\init.pp": "f7cc93dfc93e225cd6cc667155979e8c",
     "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "files\\README.txt": "daaecd645cb79735aaa296d3c13fd71e",
     "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "Modulefile": "ab3e88bee08696d1026b38f52acc8c20",
     "manifests\\config.pp": "d3c2621335ba7c68506e947de18d8092",
