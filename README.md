@@ -3,9 +3,8 @@ Puppet
 
 ###Modules
 
-####Logstash Shipping deployment module.
- *Installs and configure the Logstash Shipping agent.
- *Work in progress
+####Logstash Shipping deployment module. (*Work in progress*)
+      -Installs and configure the Logstash Shipping agent.
+ 
 ####Custom Motd module
- *Simple Motd module for users signing in to see that their
- *using a puppet controlled system
+      -Simple Motd module for users signing in to see that their using a puppet controlled system.
